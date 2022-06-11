@@ -1,0 +1,16 @@
+* {
+    border-radius: 30px;
+    padding: 8px;
+    text-align: center;
+}
+body{
+    background: black;
+}
+#Principalh1{
+    background: black;
+    color: white;
+    font-size: 50px;
+}
+#Buttonsearch{
+    cursor: pointer;
+}
