@@ -14,3 +14,12 @@ body{
 #Buttonsearch{
     cursor: pointer;
 }
+p{
+    color: rgb(255,215,0);
+}
+#news{
+    background: rgb(3, 110, 224);
+}
+h2{
+    color: rgb(255,215,0);
+}
