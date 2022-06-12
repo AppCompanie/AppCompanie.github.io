@@ -1,0 +1,44 @@
+* {
+    border-radius: 30px;
+    padding: 8px;
+    text-align: center;
+}
+body{
+    background: white;
+}
+#mainH1{
+    background: black;
+    color: white;
+    font-size: 50px;
+}
+#Description
+h2{
+    font-size: 50px;
+    background: rgb(12, 209, 12);
+}
+#Description{
+    background: green;
+}
+#Description
+p{
+    background: green;
+    color: rgb(12, 57, 12);
+    font-size: 20px;
+}
+#Doc
+h2{
+    font-size: 50px;
+    background: rgb(7, 33, 231);
+}
+#Doc{
+    background: rgb(11, 3, 170);
+}
+#Doc
+p{
+    color: rgb(10, 6, 62);
+    font-size: 20px;
+}
+#telechargement{
+    cursor: pointer;
+    background: rgb(35, 193, 35);
+}
