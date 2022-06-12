@@ -3,35 +3,27 @@
     padding: 8px;
     text-align: center;
 }
-body{
-    background: white;
-}
-#mainH1{
-    background: black;
-    color: white;
-    font-size: 50px;
-}
 #Description
 h2{
     font-size: 50px;
-    background: rgb(12, 209, 12);
+    background: rgb(244, 200, 3);
 }
 #Description{
-    background: green;
+    background: rgb(204, 151, 29);
 }
 #Description
 p{
-    background: green;
+    background: rgb(214, 169, 90);
     color: rgb(12, 57, 12);
     font-size: 20px;
 }
 #Doc
 h2{
     font-size: 50px;
-    background: rgb(7, 33, 231);
+    background: rgb(197, 231, 7);
 }
 #Doc{
-    background: rgb(11, 3, 170);
+    background: rgb(152, 146, 40);
 }
 #Doc
 p{
@@ -40,5 +32,8 @@ p{
 }
 #telechargement{
     cursor: pointer;
-    background: rgb(35, 193, 35);
+    background: rgb(221, 143, 19);
+}
+body{
+    background: orange;
 }
